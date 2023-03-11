@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+  }
+  .nav1 {
+    float: left;
+  }
+  .footer {
+    background-color: gainsboro;
+  }
+  .nav2 {
+    float: right;
+  }
+  li {
+    color: grey;
+    display: inline;
+  }
+  .Google {
+    font-size: 50pt;
+    margin: auto;
+    display: block;
+    padding: 20px;
+    text-align: center;
+  }
+  .search {
+    border: 1px solid rgb(0, 0, 0);
+    width: 50%;
+    margin: auto;
+  }
+
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(243, 242, 242);
+    color: rgb(75, 73, 73);
+    text-align: center;
+  }
+  #p3{
+    word-spacing: 60px;
+    float: left;
+  }
+  #p4{
+    word-spacing: 30px;
+    float: right;
+  }
+  
+  .buttono{
+    display: block;
+    width: 60%;
+    float: left;
+    padding: 5%
+
+  }

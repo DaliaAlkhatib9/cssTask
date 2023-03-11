@@ -1,0 +1,40 @@
+body{
+    background-color: plum;
+}
+.Articles p{
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    margin-left: 10px;
+   float: left;
+   overflow: hidden;  
+}
+.scrolrd p{
+overflow-y:scroll;
+width: 600px;
+height: 50px;
+border: 2px solid;
+border-left: 0px;
+border-right: 0px;
+ padding-left: 50px;
+ position: absolute;
+ top :5cm;}
+ .end{
+    top: 6.78cm;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+    max-height: fit-content;
+   position: absolute;
+}
+.end1{
+    position: absolute;
+    top: 6.78cm;
+    left: 6cm;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+   max-height: fit-content;
+
+
+}
